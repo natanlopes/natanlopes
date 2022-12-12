@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando na Vonixx<br>👯 Desenvolvedor junior.<br>🤝 Estou procurando ajuda com IA, Data Science.<br>🌱No momento estou aprendendo e estudando API, Python, Django, Flask<br>💬 Pergunte me sobre;ront-End : HTML5, CSS3, JavaScript<br>
+🔭 Atualmente estou trabalhando na Vonixx<br>👯 Desenvolvedor junior.<br>🤝 Estou procurando ajuda com IA, Data Science.<br>🌱No momento estou aprendendo e estudando API, Python, Django, Flask<br>💬 Pergunte me sobre;Front-End : HTML5, CSS3, JavaScript<br>
 
 
 ## 🌐 Socials:
