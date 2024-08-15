@@ -1,7 +1,6 @@
 # 💫 About Me:
  Atualmente estou trabalhando na Argo Fruta
- <br> Desenvolvedor Junior - | Django | Python | SQL Server | Java | ERP Sankhya | Oracle<br> 
- No momento estou aprendendo e estudando API, JAVA.<br>
+ <br> Desenvolvedor Junior | Django | Python | SQL Server | Java | ERP Sankhya | Oracle 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004505103848&mibextid=ZbWKwL) 
