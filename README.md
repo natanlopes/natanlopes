@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando na Vonixx<br>👯 Desenvolvedor junior<br>🤝 Estou procurando ajuda com IA, Data Science<br>🌱 No momento estou aprendendo e estudando API, Python, Django, Flask<br>💬 Pergunte me sobre;Front-End : HTML5, CSS3, JavaScript.<br>
+🔭 Atualmente estou trabalhando na Argo Fruta<br>👯 Desenvolvedor junior<br>🤝 Estou procurando ajuda com IA, Data Science<br>🌱 No momento estou aprendendo e estudando API, Python, Django, Flask<br>💬 Pergunte me sobre;Front-End : HTML5, CSS3, JavaScript.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004505103848&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathan.lp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/natanael-lopes-722201136/) 
