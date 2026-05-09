@@ -1,7 +1,7 @@
 ## Natanael Lopes Vasconcelos
 
 Desenvolvedor Backend com especialização em Java e ERP Sankhya.
-3+ anos entregando customizações em produção — procedures PL/SQL, automações,
+Entregando customizações em produção — procedures PL/SQL, automações,
 dashboards e integrações de sistemas para operações agroindustriais de grande porte.
 
  &nbsp;|&nbsp; ✉ natan1918@gmail.com
@@ -25,5 +25,7 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 ### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanlopes&theme=dark&hide_border=true)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact)
