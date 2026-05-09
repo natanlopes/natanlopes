@@ -1,18 +1,38 @@
-# 💫 About Me:
- Atualmente estou trabalhando na Argo Fruta
- <br> Desenvolvedor Junior | Django | Python | SQL Server | Java | ERP Sankhya | Oracle 
+## Natanael Lopes Vasconcelos
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/natanael-lopes-722201136/) 
+Desenvolvedor Backend com especialização em Java e ERP Sankhya.
+3+ anos entregando customizações em produção — procedures PL/SQL, automações,
+dashboards e integrações de sistemas para operações agroindustriais de grande porte.
+Consolidando Spring Boot 3 em produção através do projeto EasyBiz.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=natanlopes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Fortaleza, CE — Remoto &nbsp;|&nbsp; ✉ natan1918@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-lopes-722201136/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=natanlopes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 Stack Principal
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Projeto em Destaque
+
+**EasyBiz** — Sistema de gestão para pequenas empresas  
+Spring Boot 3 · Angular · PostgreSQL · Docker · Swagger/OpenAPI  
+> Projeto pessoal com arquitetura REST completa, documentação técnica e CI/CD estruturado
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanlopes&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact)
