@@ -1,11 +1,11 @@
 ## Natanael Lopes Vasconcelos
 
 Desenvolvedor Backend com especialização em Java e ERP Sankhya.
-3+ anos entregando customizações em produção — procedures PL/SQL, automações,
+Entregando customizações em produção — procedures PL/SQL, automações,
 dashboards e integrações de sistemas para operações agroindustriais de grande porte.
 Consolidando Spring Boot 3 em produção através do projeto EasyBiz.
 
-📍 Fortaleza, CE — Remoto &nbsp;|&nbsp; ✉ natan1918@gmail.com
+&nbsp; ✉ natan1918@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-lopes-722201136/)
 
 ---
