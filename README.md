@@ -1,11 +1,10 @@
 ## Natanael Lopes Vasconcelos
 
 Desenvolvedor Backend com especialização em Java e ERP Sankhya.
-Entregando customizações em produção — procedures PL/SQL, automações,
+3+ anos entregando customizações em produção — procedures PL/SQL, automações,
 dashboards e integrações de sistemas para operações agroindustriais de grande porte.
 
-
-&nbsp; ✉ natan1918@gmail.com
+ &nbsp;|&nbsp; ✉ natan1918@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-lopes-722201136/)
 
 ---
@@ -20,14 +19,6 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🚀 Projeto em Destaque
-
-**EasyBiz** — Sistema de gestão para pequenas empresas  
-Spring Boot 3 · Angular · PostgreSQL · Docker · Swagger/OpenAPI  
-> Projeto pessoal com arquitetura REST completa, documentação técnica e CI/CD estruturado
 
 ---
 
