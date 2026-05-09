@@ -21,12 +21,10 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&count_private=true&show_icons=true&cache_seconds=1800)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanlopes&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
