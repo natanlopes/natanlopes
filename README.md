@@ -4,7 +4,7 @@ Desenvolvedor Backend com especialização em Java e ERP Sankhya.
 Entregando customizações em produção — procedures PL/SQL, automações,
 dashboards e integrações de sistemas para operações agroindustriais de grande porte.
 
- &nbsp;|&nbsp; ✉ natan1918@gmail.com
+&nbsp;|&nbsp; ✉ natan1918@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-lopes-722201136/)
 
 ---
@@ -19,12 +19,3 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&count_private=true&show_icons=true&cache_seconds=1800)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanlopes&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
