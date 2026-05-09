@@ -24,7 +24,7 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=natanlopes&theme=dark&hide_border=true&count_private=true&show_icons=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanlopes&theme=dark&hide_border=true)
 
