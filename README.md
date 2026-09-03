@@ -1,8 +1,9 @@
 ## Natanael Lopes Vasconcelos
 
-Desenvolvedor Backend com especialização em Java e ERP Sankhya.
-Entregando customizações em produção — procedures PL/SQL, automações,
-dashboards e integrações de sistemas para operações agroindustriais de grande porte.
+Desenvolvedor Backend Pleno. Atuo com customizações Java/PL-SQL para o ERP Sankhya
+em operações agroindustriais de grande porte — procedures, automações, dashboards
+e integrações de sistemas. Em projetos próprios, construo APIs REST com Spring Boot:
+autenticação JWT, WebSocket, e CI/CD com gates de segurança (Trivy, SpotBugs, cobertura de testes).
 
 &nbsp;|&nbsp; ✉ natan1918@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-lopes-722201136/)
@@ -14,6 +15,7 @@ dashboards e integrações de sistemas para operações agroindustriais de grand
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
